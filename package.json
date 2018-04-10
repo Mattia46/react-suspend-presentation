@@ -1,10 +1,9 @@
 {
-  "name": "React Suspend Presentation",
+  "name": "React-suspend-presentation",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "",
   "main": "src/index.js",
   "dependencies": {
     "glamor": "2.20.40",

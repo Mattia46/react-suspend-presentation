@@ -175,7 +175,7 @@ function Result({cache, result, onActiveResultUpdate, isActive}) {
 
 function PosterThumbnail({src}) {
   return (
-    <Timeout ms={0} fallback={'loading'}>
+    <Timeout ms={1000} fallback={'mattia'}>
       <Img src={src} css={{padding: 0, margin: 0}} />
     </Timeout>
   );
